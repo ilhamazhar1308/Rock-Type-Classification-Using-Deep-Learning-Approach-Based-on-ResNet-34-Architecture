@@ -217,6 +217,6 @@ Muhammad Nabil
 
 Putri Permata
 
-Geophysical Engineering | Institute Technology of Sumatera
+Geophysical Engineering | Institute Technology of Sumatera (ITERA)
 
 Focus: Deep Learning for Earth Science Applications
