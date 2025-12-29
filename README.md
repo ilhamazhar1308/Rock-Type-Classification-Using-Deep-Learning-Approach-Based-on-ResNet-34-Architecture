@@ -11,18 +11,27 @@ This repository contains a deep learning–based rock identification system usin
 Rock identification traditionally depends on expert geological interpretation. This project explores the use of deep learning and computer vision to assist lithological classification using rock images captured in the field or uploaded from files.
 
 The system consists of:
+
 A PyTorch training pipeline
+
 A ResNet-34 inference model
+
 A Streamlit-based field application with camera support
 
 # Model Architecture
 
 Backbone: ResNet-34
+
 Framework: PyTorch + Hugging Face Transformers
+
 Pretrained weights: ImageNet
+
 Strategy:
+
 Transfer learning
+
 Custom classification head
+
 Checkpoint-based inference
 
 ## Repository Structure
@@ -69,17 +78,26 @@ Run the training script:
 python train_resnet34_rocks.py
 ```
 Features:
+
 Data augmentation
+
 Transfer learning
+
 Periodic checkpoint saving
+
 Resume training support
 
 # Field Identification App (Streamlit)
 🔹 Features
+
 Upload rock image or use device camera
+
 Top-K prediction display
+
 Confidence threshold control
+
 Geological interpretation logic (defined / possible)
+
 Field-friendly interface
 
 # Run Streamlit App
@@ -94,15 +112,21 @@ http://localhost:8501
 # Streamlit Interface Overview
 
 User Options:
+
 1. Camera input (field mode)
+   
 2. Image upload
+   
 3. Top-K prediction slider
 
 # Confidence threshold control
 
 Prediction Output:
+
 Predicted rock type(s)
+
 Confidence percentage
+
 Geological decision logic:
 🟢 Defined (high confidence)
 🟡 Possible (ambiguous class)
@@ -116,23 +140,33 @@ checkpoints/
 └── checkpoint_20.pth
 ```
 Checkpoint contains:
+
 Model weights
+
 Class names
+
 Training metadata
 
 # Application Scope
 
 Field geology assistance
+
 Geophysical interpretation support
+
 Academic research
+
 Computer vision for Earth sciences
 
 # Current Development Status
 
 ✅ Training pipeline implemented
+
 ✅ ResNet-34 inference
+
 ✅ Streamlit field application
+
 🚧 Model validation & evaluation
+
 🚧 Dataset refinement
 
 # Disclaimer
