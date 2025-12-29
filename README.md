@@ -203,6 +203,7 @@ Computer vision applications in Earth sciences
 🚧 Dataset expansion and refinement
 
 ⚠️ Disclaimer
+
 This system is intended for research and educational purposes only.
 
 It should not be used as the sole basis for geological or engineering decisions.
