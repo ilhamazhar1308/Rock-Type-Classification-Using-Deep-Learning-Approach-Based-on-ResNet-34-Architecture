@@ -217,6 +217,8 @@ Muhammad Nabil
 
 Putri Permata
 
-Field: Geology & Geophysics
+Geophysical Engineering
+
+Institute Technology of Sumatera
 
 Focus: Deep Learning for Earth Science Applications
