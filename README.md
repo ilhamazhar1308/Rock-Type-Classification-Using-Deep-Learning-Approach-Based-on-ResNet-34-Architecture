@@ -25,16 +25,20 @@ Transfer learning
 Custom classification head
 Checkpoint-based inference
 
-# Repository Structure
-rock-type-identification/
-│── train_resnet34_rocks.py
-│── streamlit_app.py
-│── requirements.txt
-│── README.md
-│── dataset/          # Image dataset (not included)
-│── checkpoints/      # Trained model checkpoints
+## Repository Structure
 
-# Dataset Format
+```
+rock-type-identification/
+├── train_resnet34_rocks.py
+├── streamlit_app.py
+├── requirements.txt
+├── README.md
+├── dataset/        # Image dataset (not included)
+└── checkpoints/    # Trained model checkpoints
+```
+
+## Dataset Format
+```
 dataset/
 ├── Andesite/
 │   ├── img1.jpg
@@ -44,7 +48,7 @@ dataset/
 │   ├── img2.jpg
 ├── Granite/
 │   └── ...
-
+```
 
 Each directory represents one rock class.
 
@@ -98,9 +102,10 @@ Geological decision logic:
 # Checkpoint Usage
 
 The Streamlit app loads trained checkpoints:
+```
 checkpoints/
 └── checkpoint_20.pth
-
+```
 Checkpoint contains:
 Model weights
 Class names
