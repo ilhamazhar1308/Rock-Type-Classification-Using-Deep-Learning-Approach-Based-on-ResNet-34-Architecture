@@ -218,4 +218,5 @@ Muhammad Nabil
 Putri Permata
 
 Field: Geology & Geophysics
+
 Focus: Deep Learning for Earth Science Applications
