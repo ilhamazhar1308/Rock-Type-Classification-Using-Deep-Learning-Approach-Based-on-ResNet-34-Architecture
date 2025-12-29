@@ -220,6 +220,9 @@ Field: Geology & Geophysics
 Focus: Deep Learning for Earth Science Applications
 
 # License
-This project is released for academic and research use.
+This project is developed for educational purposes, course assignments, and academic learning.
+The system is currently under active development and is intended to support research, academic, and future professional applications.
+
+The software is provided as-is and should be used as a learning and research tool, not as a final or fully validated professional system.
 
 ---
