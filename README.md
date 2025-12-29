@@ -63,7 +63,9 @@ pip install -r requirements.txt
 # Training (PyTorch)
 
 Run the training script:
+
 python train_resnet34_rocks.py
+
 Features:
 Data augmentation
 Transfer learning
