@@ -65,9 +65,9 @@ pip install -r requirements.txt
 # Training (PyTorch)
 
 Run the training script:
-
+```
 python train_resnet34_rocks.py
-
+```
 Features:
 Data augmentation
 Transfer learning
@@ -83,9 +83,13 @@ Geological interpretation logic (defined / possible)
 Field-friendly interface
 
 # Run Streamlit App
+```
 streamlit run streamlit_app.py
+```
 Then open browser at:
+```
 http://localhost:8501
+```
 
 # Streamlit Interface Overview
 
