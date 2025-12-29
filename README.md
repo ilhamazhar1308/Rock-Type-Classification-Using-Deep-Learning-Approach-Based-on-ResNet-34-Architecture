@@ -25,7 +25,7 @@ The project consists of:
 
 ---
 
-## 🧠 Model Architecture
+## Model Architecture
 
 - **Backbone:** ResNet-34  
 - **Framework:** PyTorch  
@@ -48,7 +48,7 @@ Amphibolite, Andesite, Basalt, Granite, Gneiss, Limestone, Marble, Sandstone, Sh
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 ```
 rock-type-identification/
 ├── train_resnet34_rocks.py # Model training script
