@@ -161,7 +161,9 @@ Confidence percentage
 Geological interpretation logic:
 
 🟢 Defined — High confidence prediction
+
 🟡 Possible — Ambiguous class
+
 ⚠️ Final validation should always be confirmed through field observation and petrographic/mineralogical analysis
 
 # Checkpoint Usage
@@ -189,11 +191,15 @@ Academic research and education
 Computer vision applications in Earth sciences
 
 🚧 Current Development Status
+
 ✅ Training pipeline implemented
+
 ✅ ResNet-34 inference model
+
 ✅ Streamlit field application
 
 🚧 Model validation and performance evaluation
+
 🚧 Dataset expansion and refinement
 
 ⚠️ Disclaimer
@@ -214,7 +220,6 @@ Field: Geology & Geophysics
 Focus: Deep Learning for Earth Science Applications
 
 # License
-
 This project is released for academic and research use.
 
 ---
