@@ -138,10 +138,13 @@ Computer vision for Earth sciences
 # Disclaimer
 
 This system is intended as a decision-support tool only.
+
 It does not replace expert geological judgment.
 
-👤 Author
+# Author
 
 Ilham Azhar, Laurens roy, Muhammad Nabil, Putri permata
+
 Field: Geology & Geophysics
+
 Focus: Deep Learning for Earth Science Applications
