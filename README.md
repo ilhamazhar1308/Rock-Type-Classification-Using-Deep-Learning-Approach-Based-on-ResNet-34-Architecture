@@ -54,12 +54,14 @@ Each directory represents one rock class.
 
 # Installation
 1️⃣ Clone Repository
+```
 git clone https://github.com/username/rock-type-identification.git
 cd rock-type-identification
-
+```
 2️⃣ Install Dependencies
+```
 pip install -r requirements.txt
-
+```
 # Training (PyTorch)
 
 Run the training script:
